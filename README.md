@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FMbic
+- 👋 Hi, I’m @FMbic 💙💛
 - 👀 I’m interested in Learning new things
 - 🌱 I’m currently learning UE5
 - 💞️ I’m looking to collaborate on UE5

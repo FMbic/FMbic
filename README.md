@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FMbic 💙💛
 - 👀 I’m interested in Learning new things
-- 🌱 I’m currently learning UE5
-- 💞️ I’m looking to collaborate on UE5
+- 🌱 I’m currently learning K8s
+- 💞️ I’m looking to collaborate on K8s
 - 📫 How to reach me fedkamedved@gmail.com
 
 <!---
